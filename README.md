@@ -1,3 +1,3 @@
 # tingBlog
 
-### [please enter...]https://github.com/edwinna/tingBlog/issues
+### [please enter...](https://github.com/edwinna/tingBlog/issues)
