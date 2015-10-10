@@ -1,2 +1,3 @@
 # tingBlog
-ting ting blog
+
+### [please enter...]https://github.com/edwinna/tingBlog/issues
