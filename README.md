@@ -1,3 +1,3 @@
 # tingBlog
 
-### [please enter...](https://github.com/edwinna/tingBlog/issues)
+### [welcome to enter FE blog of edwinna ](https://github.com/edwinna/tingBlog/issues)
